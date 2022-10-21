@@ -24,6 +24,16 @@ b. Government officials who certify these drugs. <br>
 c.  Retailers like pharmacies and hospitals that purchase these drugs. <br>
 d. The people who purchase these medications. <br>
 
+The User webpage ought to contain a search bar for looking up certain products, and it ought to 
+provide all the data in an easily digestible tabular manner. <br>
+The producer webpage should have an update option that allows users to update the new supply 
+and, if necessary, review any prior updates, Storage locations, and transport transparency. <br>
+All new updates made by manufacturers should have approved options on the government officials'
+webpage, and users and pharmaceuticals should be able to see their ID so they can trust the source. <br>
+Pharmacies should see a record of their purchases, travel agency contacts, expiry date of stock,
+name, and count of medicines they own, and buyer details. <br>
+
+
 => System prototyping:
 <br>
 The idea is to make the whole supply chain process transparent in such a way that any person can the status of a particular medicine.
@@ -31,6 +41,7 @@ The idea is to make the whole supply chain process transparent in such a way tha
 => Interface evaluation:
 <br>
 The goal of this evaluation is to decide the usability, and intuitive for users. The evaluation   strategy for my website is, <br>
-      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Requirements -> Design -> Construction -> Testing -. Production |
+      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Requirements -> Design -> Construction -> Testing -. Production | <br>
 
-
+The general frontpage layout of the website: <br>
+Refer : http://18743734-880920.renderforestsites.com/
