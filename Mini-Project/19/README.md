@@ -15,6 +15,7 @@ So, to make the supply chain system more dependable without human error and felo
 This website aims to integrate pharmaceuticals’ supply chain management with Blockchain (to give pharmaceutical traceability and immutability)  and spot/QR codes (to provide identity into the blockchain).
 
 => User analysis:
+<br>
 a. Businesses that produce pharmaceuticals.
  	1. transport medications.
  	2. storage, and label these medications. 
@@ -24,9 +25,11 @@ c.  Retailers like pharmacies and hospitals that purchase these drugs.
 d. The people who purchase these medications.
 
 => System prototyping:
+<br>
 The idea is to make the whole supply chain process transparent in such a way that any person can the status of a particular medicine.
 
 => Interface evaluation:
+<br>
 The goal of this evaluation is to decide the usability, and intuitive for users. The evaluation   strategy for my website is,
                  | Requirements -> Design -> Construction -> Testing -. Production |
 
