@@ -16,13 +16,13 @@ This website aims to integrate pharmaceuticals’ supply chain management with B
 
 => User analysis:
 <br>
-a. Businesses that produce pharmaceuticals.
- 	1. transport medications.
- 	2. storage, and label these medications. 
- 	3. raw material supply.
-b. Government officials who certify these drugs.
-c.  Retailers like pharmacies and hospitals that purchase these drugs.
-d. The people who purchase these medications.
+a. Businesses that produce pharmaceuticals. <br>
+ 	1. transport medications. <br>
+ 	2. storage, and label these medications. <br>
+ 	3. raw material supply. <br>
+b. Government officials who certify these drugs. <br>
+c.  Retailers like pharmacies and hospitals that purchase these drugs. <br>
+d. The people who purchase these medications. <br>
 
 => System prototyping:
 <br>
@@ -30,7 +30,7 @@ The idea is to make the whole supply chain process transparent in such a way tha
 
 => Interface evaluation:
 <br>
-The goal of this evaluation is to decide the usability, and intuitive for users. The evaluation   strategy for my website is,
+The goal of this evaluation is to decide the usability, and intuitive for users. The evaluation   strategy for my website is, <br>
                  | Requirements -> Design -> Construction -> Testing -. Production |
 
 
