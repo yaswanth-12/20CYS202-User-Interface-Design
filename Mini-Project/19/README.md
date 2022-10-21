@@ -25,11 +25,11 @@ c.  Retailers like pharmacies and hospitals that purchase these drugs. <br>
 d. The people who purchase these medications. <br>
 
 <ul>
-<li>The User webpage ought to contain a search bar for looking up certain products, and it ought to provide all the data in an easily digestible tabular manner. <li> 
-<li>The producer webpage should have an update option that allows users to update the new supply and, if necessary, review any prior updates, Storage locations, and transport transparency. <li> 
-<li> All new updates made by manufacturers should have approved options on the government officials' webpage, and users and pharmaceuticals should be able to see their ID so they can trust the source. <li> 
-<li> Pharmacies should see a record of their purchases, travel agency contacts, expiry date of stock, name, and count of medicines they own, and buyer details. <li> 
-<ul>
+<li>The User webpage ought to contain a search bar for looking up certain products, and it ought to provide all the data in an easily digestible tabular manner. </li> 
+<li>The producer webpage should have an update option that allows users to update the new supply and, if necessary, review any prior updates, Storage locations, and transport transparency. </li> 
+<li> All new updates made by manufacturers should have approved options on the government officials' webpage, and users and pharmaceuticals should be able to see their ID so they can trust the source. </li> 
+<li> Pharmacies should see a record of their purchases, travel agency contacts, expiry date of stock, name, and count of medicines they own, and buyer details. </li> 
+</ul>
 
 => System prototyping:
 <br>
