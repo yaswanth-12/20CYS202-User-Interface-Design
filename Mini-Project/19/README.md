@@ -5,8 +5,7 @@
 
 #### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
-
-Pharma Supply Chain Management (PSCM)
+### Pharma Supply Chain Management (PSCM)
 
 To understand this, let's break it down into two parts: Pharma (pharmaceutical) and supply chain management.
 Supply chain management is defined as “the amalgamation of key business processes across the supply chain for the rationale of generating value and reliable products for customers and stakeholders.”
