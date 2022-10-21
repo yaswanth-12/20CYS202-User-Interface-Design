@@ -31,6 +31,6 @@ The idea is to make the whole supply chain process transparent in such a way tha
 => Interface evaluation:
 <br>
 The goal of this evaluation is to decide the usability, and intuitive for users. The evaluation   strategy for my website is, <br>
-      &emsp; &emsp; &emsp;   | Requirements -> Design -> Construction -> Testing -. Production |
+      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  | Requirements -> Design -> Construction -> Testing -. Production |
 
 
